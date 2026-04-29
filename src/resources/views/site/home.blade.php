@@ -1,1 +1,1 @@
-<h1>Olá, testando ambiente</h1>
+@extends('layout.site')
