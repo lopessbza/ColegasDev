@@ -7,7 +7,7 @@
 	<meta name="author" content="ThemeOri">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
-	<title>Bantec - IT Service & Technology HTML5 Template</title>
+	<title>Bantec - Modelo HTML5 para Serviços e Tecnologia de TI</title>
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="{{ asset('colegasdev/img/favicon-1.png') }}">
 	<!-- Bootstrap CSS -->

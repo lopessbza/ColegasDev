@@ -11,7 +11,7 @@
 									<h4 class="counter">25</h4>
 									<span>+</span>
 								</div>
-								<span>Years Experience</span>
+								<span>Anos de experiência</span>
 							</div>
 						</div>
 						<div class="about__one-image-wrapper">
@@ -22,28 +22,28 @@
 				</div>
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<div class="about__one-content">
-						<span class="subtitle-one">About us</span>
-						<h2>Transform Business to Technology</h2>
-						<p>IT Technology is a broad category encompassing all aspec information technology and the application of technology in various industries. It includes areas such as software development</p>
+						<span class="subtitle-one">Sobre Nós</span>
+						<h2>Transformamos negócios em tecnologia</h2>
+						<p>Tecnologia da Informação (TI) é uma categoria ampla que engloba todos os aspectos da tecnologia da informação e a aplicação da tecnologia em diversos setores. Inclui áreas como desenvolvimento de software.</p>
 						<div class="about__one-content-service">
 							<div class="service">
 								<i class="far fa-check-circle"></i>
-								<span>Data Management Experts</span>
+								<span>Especialistas em gerenciamento de dados</span>
 							</div>
 							<div class="service">
 								<i class="far fa-check-circle"></i>
-								<span>Mobile App Developments</span>
+								<span>Desenvolvimentos de aplicativos mobile</span>
 							</div>
 							<div class="service">
 								<i class="far fa-check-circle"></i>
-								<span>IT Infrastructure Solutions</span>
+								<span>Soluções de infraestrutura de TI</span>
 							</div>
 							<div class="service">
 								<i class="far fa-check-circle"></i>
-								<span>Data Analytics Consulting</span>
+								<span>Consultoria em análise de dados</span>
 							</div>
 						</div>
-						<a href="about.html" class="btn-one">Discover More
+						<a href="about.html" class="btn-one">Descubra mais
 							<i class="fas fa-arrow-right"></i>
 						</a>
 					</div>

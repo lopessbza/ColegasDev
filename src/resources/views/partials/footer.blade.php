@@ -7,15 +7,15 @@
 					<div class="footer__two-widget">
 						<div class="footer__two-widget-about">
 							<a href="#"><img src="assets/img/logo-2.png" alt="image"></a>
-							<p>Financial planners help people to gain knowledge aboutw</p>
+							<p>Os planejadores financeiros ajudam as pessoas a obter conhecimento sobre...</p>
 							<div class="footer__two-widget-about-location">
 								<div class="footer__two-widget-about-location-item">
 									<div class="footer__two-widget-about-location-item-icon">
 										<i class="flaticon-telephone-call"></i>
 									</div>
 									<div class="footer__two-widget-about-location-item-info">
-										<span>Phone Number</span>
-										<a href="tel:(307)555-0133">(307) 555-0133</a>
+										<span>Numero de Telefone</span>
+										<a href="tel:(11) 4002-8922">(11) 4002-8922</a>
 									</div>
 								</div>
 							</div>
@@ -24,20 +24,19 @@
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 					<div class="footer__two-widget ml-85">
-						<h4>Quick Link</h4>
+						<h4>Link rápido</h4>
 						<div class="footer__two-widget-solution">
 							<ul>
-								<li><a href="service.html"><i class="far fa-chevron-double-right"></i>Service</a></li>
-								<li><a href="faq.html"><i class="far fa-chevron-double-right"></i>FAQ</a></li>
-								<li><a href="testimonial.html"><i class="far fa-chevron-double-right"></i>Testimonial</a></li>
-								<li><a href="about.html"><i class="far fa-chevron-double-right"></i>About Us</a></li>
+								<li><a href="servicos"><i class="far fa-chevron-double-right"></i>Serviços</a></li>
+								<li><a href="testimonial"><i class="far fa-chevron-double-right"></i>Testimonial</a></li>
+								<li><a href="sobre"><i class="far fa-chevron-double-right"></i>Sobre Nós</a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 					<div class="footer__two-widget">
-						<h4>Our Services</h4>
+						<h4>Nossos Serviços</h4>
 						<div class="footer__two-widget-solution">
 							<ul>
 								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Hosting Solution</a></li>
@@ -50,9 +49,9 @@
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 					<div class="footer__two-widget">
-						<h4>Follow Us</h4>
+						<h4>Siga-nos</h4>
 						<div class="footer__two-widget-subscribe">
-							<p>The latest news, articles, sent to your inbox weekly.</p>
+							<p>As últimas notícias e artigos enviados semanalmente para sua caixa de entrada.</p>
 							 <div class="footer__two-widget-social">	
 								<ul>
 									<li><a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a></li>
@@ -76,8 +75,8 @@
 					</div>
 					<div class="col-xl-5 col-lg-6">
 						<div class="copyright__one-right">
-							<a href="about.html">Privacy Policy</a>
-							<a href="contact.html">Contact Us</a>
+							<a href="sobre">Politica de privacidade</a>
+							<a href="contato">Contate-nos</a>
 						</div>
 					</div>
 				</div>

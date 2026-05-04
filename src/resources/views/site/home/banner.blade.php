@@ -13,10 +13,10 @@
 			<div class="row align-items-center gy-4 justify-content-center">
 				<div class="col-xl-6 col-lg-6">
 					<div class="banner__one-content">
-						<span class="subtitle-one">Digital Growth</span>
-						<h2>Blueprints for Digital <span>Excellence</span></h2>
-						<p>Our team about exploring new possibilities and embracing emerging trends to deliver transformative IT solutions</p>
-						<a href="service.html" class="btn-two">Find Solutions
+						<span class="subtitle-one">Crescimento digital</span>
+						<h2>Projetos para o Digital <span>Excelencia</span></h2>
+						<p>Nossa equipe está empenhada em explorar novas possibilidades e adotar tendências emergentes para oferecer soluções de TI transformadoras.</p>
+						<a href="servico" class="btn-two">Encontre soluções
 							<i class="fas fa-arrow-right"></i>
 						</a>
 					</div>

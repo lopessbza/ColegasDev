@@ -4,8 +4,8 @@
 			<div class="row justify-content-center text-center">
 				<div class="col-xl-6 col-lg-6">
 					<div class="blog__one-title">
-						<span class="subtitle-one">Blog And news</span>
-						<h2>Exploring Technology</h2>
+						<span class="subtitle-one">Blog e notícias</span>
+						<h2>Explorando a tecnologia</h2>
 					</div>
 				</div>
 			</div>
@@ -17,7 +17,7 @@
 						</div>
 						<div class="blog__one-single-blog-date">
 							<span class="date">09</span>
-							<span class="month">Mar</span>
+							<span class="month">Março</span>
 						</div>
 						<div class="blog__one-single-blog-content">
 							<div class="blog__one-single-blog-content-top">
@@ -30,8 +30,8 @@
 									Comments (05)
 								</span>
 							</div>
-							<a href="blog-details.html" class="blog-heading">Software Development Agility a Primer</a>
-							<a href="blog-details.html" class="btn-three">Read More
+							<a href="blog-details.html" class="blog-heading">Agilidade no Desenvolvimento de Software: Uma Introdução</a>
+							<a href="blog-details.html" class="btn-three">Leia mais
 								<i class="fas fa-angle-right"></i>
 							</a>
 						</div>
@@ -44,7 +44,7 @@
 						</div>
 						<div class="blog__one-single-blog-date">
 							<span class="date">09</span>
-							<span class="month">Mar</span>
+							<span class="month">Março</span>
 						</div>
 						<div class="blog__one-single-blog-content">
 							<div class="blog__one-single-blog-content-top">
@@ -57,8 +57,8 @@
 									Comments (05)
 								</span>
 							</div>
-							<a href="blog-details.html" class="blog-heading">UX/UI Designing the Future Web Design</a>
-							<a href="blog-details.html" class="btn-three">Read More
+							<a href="blog-details.html" class="blog-heading">Design UX/UI: O Futuro do Web Design</a>
+							<a href="blog-details.html" class="btn-three">Leia mais
 								<i class="fas fa-angle-right"></i>
 							</a>
 						</div>
@@ -71,7 +71,7 @@
 						</div>
 						<div class="blog__one-single-blog-date">
 							<span class="date">09</span>
-							<span class="month">Mar</span>
+							<span class="month">Março</span>
 						</div>
 						<div class="blog__one-single-blog-content">
 							<div class="blog__one-single-blog-content-top">
@@ -84,8 +84,8 @@
 									Comments (05)
 								</span>
 							</div>
-							<a href="blog-details.html" class="blog-heading">Pioneering Contactless Payment Technologies</a>
-							<a href="blog-details.html" class="btn-three">Read More
+							<a href="blog-details.html" class="blog-heading">Tecnologias pioneiras de pagamento sem contato</a>
+							<a href="blog-details.html" class="btn-three">Leia mais
 								<i class="fas fa-angle-right"></i>
 							</a>
 						</div>

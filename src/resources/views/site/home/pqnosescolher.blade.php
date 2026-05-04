@@ -5,9 +5,9 @@
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<div class="why-choose-us__one-left">
 						<div class="why-choose-us__one-title">
-							<span class="subtitle-one">Why Chose Us</span>
-							<h2>Tailored IT Strategies for Your Business</h2>
-							<p>Craft personalized action plans harnessing the latest IT innovations to support your business objectives driving growth advantage</p>
+							<span class="subtitle-one">Por que nos esolher</span>
+							<h2>Estratégias de TI personalizadas para o seu negócio</h2>
+							<p>Elabore planos de ação personalizados, aproveitando as mais recentes inovações em TI para apoiar seus objetivos de negócios e impulsionar o crescimento.</p>
 						</div>
 						<div class="why-choose-us__one-quality">
 							<div class="why-choose-us__one-quality-single">
@@ -15,8 +15,8 @@
 									<i class="flaticon-machine-repair"></i>
 								</div>
 								<div class="why-choose-us__one-quality-single-content">
-									<h4>Innovative Tech Leader</h4>
-									<p>Harness ingenuity and foresight, we consistently pioneer advanced solutions that set industry</p>
+									<h4>Líder em Tecnologia Inovadora</h4>
+									<p>Aproveitando nossa engenhosidade e visão de futuro, inovamos constantemente com soluções avançadas que definem o padrão da indústria.</p>
 								</div>
 							</div>
 							<div class="why-choose-us__one-quality-single">
@@ -24,8 +24,8 @@
 									<i class="flaticon-web-research"></i>
 								</div>
 								<div class="why-choose-us__one-quality-single-content">
-									<h4>Reliable Global Support</h4>
-									<p>Day or night, our global support team stands ready, providing reliable assistance and technical</p>
+									<h4>Suporte global confiável</h4>
+									<p>Dia e noite, nossa equipe global de suporte está pronta para fornecer assistência confiável e suporte técnico.</p>
 								</div>
 							</div>
 						</div>

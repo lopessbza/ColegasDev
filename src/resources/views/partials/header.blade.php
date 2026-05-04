@@ -13,60 +13,34 @@
                             <li class="menu-item-has-children">
 								<a href="#">Home<i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="index.html">Home 01</a></li>
-                                    <li><a href="index-two.html">Home 02</a></li>								
-                                    <li><a href="index-three.html">Home 03</a></li>								
-                                    <li><a href="index-four.html">Home 04</a></li>								
-                                    <li><a href="index-five.html">Home 05</a></li>								
+                                    <li><a href="home">Home</a></li>					
                                 </ul>
                             </li>                            
-							<li class="menu-item-has-children"><a href="#">Pages <i class="fas fa-angle-down"></i></a>
+							<li class="menu-item-has-children"><a href="#">Paginas<i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-									<li><a href="about.html">About Us</a></li>
-                                    <li><a href="testimonial.html">Testimonials</a></li>									
-                                    <li><a href="pricing-plan.html">Pricing Plan</a></li>								
-                                    <li><a href="faq.html">Faq</a></li>								
-                                    <li class="menu-item-has-children"><a href="#">Team<i class="fas fa-angle-right"></i></a>
-										<ul class="sub-menu">
-											<li><a href="team-one.html">Team 01</a></li>
-											<li><a href="team-two.html">Team 02</a></li>
-										</ul>
-									</li>
-                                    <li><a href="request-quote.html">Request Quote</a></li>
-                                    <li><a href="404.html">404</a></li>
+									<li><a href="sobre">Sobre</a></li>
+                                    <li><a href="testimonial">Testimonials</a></li>									
+                                    <li><a href="preco">Preço</a></li>															
                                 </ul>
                             </li>
-							<li class="menu-item-has-children"><a href="#">Services <i class="fas fa-angle-down"></i></a>
+							<li class="menu-item-has-children"><a href="#">Serviços<i class="fas fa-angle-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="service.html">Service 01</a></li>
-									<li><a href="service-two.html">Service 02</a></li>								
-									<li><a href="service-details.html">Service Details</a></li>						
+									<li><a href="servicos">Serviço</a></li>
 								</ul>
 							</li>
-                            <li class="menu-item-has-children"><a href="#">Portfolio <i class="fas fa-angle-down"></i></a>
+                            <li class="menu-item-has-children"><a href="#">Portifolio <i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-									<li><a href="portfolio-slider.html">Slider Style</a></li>
-									<li><a href="portfolio-column-two.html">Column 2</a></li>
-									<li><a href="portfolio-column-three.html">Column 3</a></li>
-									<li><a href="project-details.html">Details</a></li>
+									<li><a href="portfolio">Portifolio</a></li>
                                 </ul>
                             </li>
 							<li class="menu-item-has-children"><a href="#">Blog <i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
 									<li class="menu-item-has-children"><a href="#">Blog Grid<i class="fas fa-angle-right"></i></a>
 										<ul class="sub-menu">
-											<li><a href="blog-grid-two.html">2 Columns</a></li>
-											<li><a href="blog-grid-three.html">3 Columns</a></li>
-										</ul>
-									</li>
-									<li><a href="blog-standard.html">Blog Standard</a></li>
-									<li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item-has-children"><a href="#">Contact<i class="fas fa-angle-down"></i></a>
+											<li><a href="blog">Blog</a></li>
+                            <li class="menu-item-has-children"><a href="#">Contato<i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-									<li><a href="contact.html">Contact Style 1</a></li>
-									<li><a href="contact-two.html">Contact Style 2</a></li>
+									<li><a href="contato">Contato</a></li>
                                 </ul>
                             </li>
                         </ul>
