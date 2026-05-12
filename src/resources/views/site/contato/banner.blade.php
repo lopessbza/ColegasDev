@@ -8,10 +8,10 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-xl-6 col-lg-7">
 					<div class="page__banner-content">
-						<h2>Contact Us</h2>
+						<h2>Contate-nos</h2>
 						<span><a href="index.html">Home</a>
 							<span>|</span>
-							Contact Us
+							Contate-nos
 						</span>
 					</div>
 				</div>

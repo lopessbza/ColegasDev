@@ -6,10 +6,10 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-xl-6 col-lg-7">
 					<div class="page__banner-content">
-						<h2>Blog Details</h2>
+						<h2>Detalhes do Blog</h2>
 						<span><a href="index.html">Home</a>
 							<span>|</span>
-							Blog Details
+							Detalhes do Blog
 						</span>
 					</div>
 				</div>

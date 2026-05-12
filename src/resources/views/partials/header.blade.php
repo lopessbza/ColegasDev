@@ -19,7 +19,7 @@
 							<li class="menu-item-has-children"><a href="#">Paginas<i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
 									<li><a href="sobre">Sobre</a></li>
-                                    <li><a href="testimonial">Testimonials</a></li>									
+                                    <li><a href="testimonial">Depoimentos</a></li>									
                                     <li><a href="preco">Preço</a></li>															
                                 </ul>
                             </li>
@@ -68,7 +68,7 @@
 							</div>
                         </div>
 						<div class="header__area-menubar-right-box-btn">
-							<a class="btn-one" href="request-quote.html">Get Quote<i class="fas fa-arrow-right"></i></a>
+							<a class="btn-one" href="request-quote.html">Obter cotação<i class="fas fa-arrow-right"></i></a>
 						</div>
                         <!-- sidebar Menu Start -->
                         <div class="header__area-menubar-right-sidebar-popup">
@@ -78,14 +78,14 @@
                             </div>
                             <p>Morbi et tellus imperdiet, aliquam nulla sed, dapibus erat. Aenean dapibus sem non purus venenatis vulputate. Donec accumsan eleifend blandit. Nullam auctor ligula</p>
 							<div class="header__area-menubar-right-sidebar-popup-contact">
-								<h4 class="mb-30">Get In Touch</h4>
+								<h4 class="mb-30">Entre em contato</h4>
 								<div class="header__area-menubar-right-sidebar-popup-contact-item">
 									<div class="header__area-menubar-right-sidebar-popup-contact-item-icon">
 										<i class="fal fa-phone-alt icon-animation"></i>
 									</div>
 									<div class="header__area-menubar-right-sidebar-popup-contact-item-content">
-										<span>Call Now</span>
-										<h6><a href="tel:+125(895)658568">+125 (895) 658 568</a></h6>
+										<span>Contate Agora!</span>
+										<h6><a href="tel:(11) 4002-8922">(11) 4002-8922</a></h6>
 									</div>
 								</div>
 								<div class="header__area-menubar-right-sidebar-popup-contact-item">
@@ -93,7 +93,7 @@
 										<i class="fal fa-envelope"></i>
 									</div>
 									<div class="header__area-menubar-right-sidebar-popup-contact-item-content">
-										<span>Quick Email</span>
+										<span>E-mail rápido</span>
 										<h6><a href="mailto:info.help@gmail.com">info.help@gmail.com</a></h6>
 									</div>
 								</div>
@@ -102,7 +102,7 @@
 										<i class="fal fa-map-marker-alt"></i>
 									</div>
 									<div class="header__area-menubar-right-sidebar-popup-contact-item-content">
-										<span>Office Address</span>
+										<span>Endereço do escritório</span>
 										<h6><a href="https://www.google.com/maps">PV3M+X68 Welshpool United Kingdom</a></h6>
 									</div>
 								</div>

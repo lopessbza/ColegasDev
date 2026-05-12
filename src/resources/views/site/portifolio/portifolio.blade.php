@@ -6,22 +6,22 @@
 					<div class="swiper-slide portfolio__one-single-portfolio single-portfolio">
 						<img src="assets/img/portfolio/portfolio-1.png" alt="image">
 						<div class="portfolio__one-single-portfolio-content">
-							<h4>Real-Time Monitoring</h4>
-							<span>network analysis</span>
+							<h4>Monitoramento em tempo real</h4>
+							<span>análise de rede</span>
 						</div>
 					</div>
 					<div class="swiper-slide portfolio__one-single-portfolio active single-portfolio">
 						<img src="assets/img/portfolio/portfolio-2.png" alt="image">
 						<div class="portfolio__one-single-portfolio-content">
-							<h4>Growth technology</h4>
-							<span>Software Planning</span>
+							<h4>Crescimento da Tecnologia</h4>
+							<span>Planejamento de software</span>
 						</div>
 					</div>
 					<div class="swiper-slide portfolio__one-single-portfolio single-portfolio">
 						<img src="assets/img/portfolio/portfolio-3.png" alt="image">
 						<div class="portfolio__one-single-portfolio-content">
-							<h4>Innovative Solutions</h4>
-							<span>System Integration</span>
+							<h4>Soluções Inovadoras</h4>
+							<span>Integração de Sistemas</span>
 						</div>
 					</div>
 				</div>

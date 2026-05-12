@@ -4,8 +4,8 @@
 			<div class="row justify-content-center text-center">
 				<div class="col-xl-6 col-lg-7 col-md-8">
 					<div class="pricing-plan__one-title">
-						<span class="subtitle-one">Flexible Plans</span>
-						<h2 class="mb-40">Pricing Made Simple</h2>
+						<span class="subtitle-one">Planos flexiveis</span>
+						<h2 class="mb-40">Preços simplificados</h2>
 						<ul class="nav nav-pills mb-65 justify-content-center" id="pills-tab" role="tablist">
 							<li class="nav-item" role="presentation">
 							  <button class="nav-link active" id="monthly-pricing-tab" data-bs-toggle="pill" data-bs-target="#monthly-pricing" type="button" role="tab" aria-controls="monthly-pricing" aria-selected="true">Monthly</button>
@@ -22,26 +22,26 @@
 					<div class="col-xl-4 col-lg-4 col-md-6">
 						<div class="pricing-plan__one-single-pricing-wrapper">
 							<div class="pricing-plan__one-single-pricing-plan">
-								<h3 class="pricing-plan__one-single-pricing-plan-title">Basic</h3>
+								<h3 class="pricing-plan__one-single-pricing-plan-title">Basico</h3>
 								<h2 class="pricing-plan__one-single-pricing-plan-price">$29
 									<span>/mo</span>
 								</h2>
-								<p>Essential Security Suite Perfect for startups and small teams</p>
+								<p>Pacote de Segurança Essencial Perfeito para startups e pequenas equipes</p>
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-one">Get Started
+								<a href="#" class="btn-one"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>
@@ -58,18 +58,18 @@
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-two">Get Started
+								<a href="#" class="btn-two"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>
@@ -78,7 +78,7 @@
 					<div class="col-xl-4 col-lg-4 col-md-6">
 						<div class="pricing-plan__one-single-pricing-wrapper">
 							<div class="pricing-plan__one-single-pricing-plan">
-								<h3 class="pricing-plan__one-single-pricing-plan-title">Enterprise</h3>
+								<h3 class="pricing-plan__one-single-pricing-plan-title">Empresa</h3>
 								<h2 class="pricing-plan__one-single-pricing-plan-price">$89
 									<span>/mo</span>
 								</h2>
@@ -86,18 +86,18 @@
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-one">Get Started
+								<a href="#" class="btn-one"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>
@@ -108,26 +108,26 @@
 					<div class="col-xl-4 col-lg-4 col-md-6">
 						<div class="pricing-plan__one-single-pricing-wrapper">
 							<div class="pricing-plan__one-single-pricing-plan">
-								<h3 class="pricing-plan__one-single-pricing-plan-title">Basic</h3>
+								<h3 class="pricing-plan__one-single-pricing-plan-title">Basico</h3>
 								<h2 class="pricing-plan__one-single-pricing-plan-price">$82
 									<span>/year</span>
 								</h2>
-								<p>Essential Security Suite Perfect for startups and small teams</p>
+								<p>Pacote de Segurança Essencial Perfeito para startups e pequenas equipes</p>
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-one">Get Started
+								<a href="#" class="btn-one"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>
@@ -144,18 +144,18 @@
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-two">Get Started
+								<a href="#" class="btn-two"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>
@@ -164,7 +164,7 @@
 					<div class="col-xl-4 col-lg-4 col-md-6">
 						<div class="pricing-plan__one-single-pricing-wrapper">
 							<div class="pricing-plan__one-single-pricing-plan">
-								<h3 class="pricing-plan__one-single-pricing-plan-title">Enterprise</h3>
+								<h3 class="pricing-plan__one-single-pricing-plan-title">Empresa</h3>
 								<h2 class="pricing-plan__one-single-pricing-plan-price">$187
 									<span>/year</span>
 								</h2>
@@ -172,18 +172,18 @@
 								<div class="pricing-plan__one-single-pricing-plan-benefits">
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Mistakes To Avoid
+										Evite erros
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Your Startup
+										Sua Startup
 									</span>
 									<span>
 										<i class="fas fa-angle-double-right"></i>
-										Knew About Fonts
+										Saiba sobre nossas fontes
 									</span>
 								</div>
-								<a href="#" class="btn-one">Get Started
+								<a href="#" class="btn-one"> Comece
 									<i class="fas fa-chevron-right"></i>
 								</a>
 							</div>

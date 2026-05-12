@@ -28,7 +28,7 @@
 						<div class="footer__two-widget-solution">
 							<ul>
 								<li><a href="servicos"><i class="far fa-chevron-double-right"></i>Serviços</a></li>
-								<li><a href="testimonial"><i class="far fa-chevron-double-right"></i>Testimonial</a></li>
+								<li><a href="testimonial"><i class="far fa-chevron-double-right"></i>Depoimentos</a></li>
 								<li><a href="sobre"><i class="far fa-chevron-double-right"></i>Sobre Nós</a></li>
 							</ul>
 						</div>
@@ -39,10 +39,10 @@
 						<h4>Nossos Serviços</h4>
 						<div class="footer__two-widget-solution">
 							<ul>
-								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Hosting Solution</a></li>
-								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Cyber Security</a></li>
-								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Network Analysis</a></li>
-								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Data Recovery</a></li>
+								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Solução de hospedagem</a></li>
+								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Cyber Segurança</a></li>
+								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Análise de Rede</a></li>
+								<li><a href="service-details.html"><i class="far fa-chevron-double-right"></i>Recuperação de dados</a></li>
 							</ul>
 						</div>
 					</div>
@@ -70,7 +70,7 @@
 				<div class="row justify-content-between copyright__one-container-area">
 					<div class="col-xl-5 col-lg-6"> 
 						<div class="copyright__one-left">
-							<p>© ThemeOri  2024 | All Rights Reserved</p>
+							<p>© ThemeOri  2024 | Todos os direitos reservados</p>
 						</div>
 					</div>
 					<div class="col-xl-5 col-lg-6">

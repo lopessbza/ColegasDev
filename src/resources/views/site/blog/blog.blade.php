@@ -3,7 +3,7 @@
 			<div class="row gy-4 flex-wrap-reverse">
 				<div class="col-xl-8">
 					<div class="blog__details-thumb">
-						<span class="date">21 September 2022</span>
+						<span class="date">21 Setembro 2022</span>
 						<img src="assets/img/blog/blog-details.png" alt="image">
 					</div>
 					<div class="blog__details-content">
@@ -23,7 +23,7 @@
 						</div>
 						<h2>Transforming businesses through technology</h2>
 						<p>IT Technology is a broad category encompassing all aspects of information the a technology and the application of technology in various industries IT Technology is a broad category encompas aspects of information IT Technology is a broad category encompassing all aspects</p>
-						<p>IT Technology is a broad category encompassing all aspects of information the a technology and the application of technology in various industries IT  is a broad category </p>
+						<p>IT Technology is a broad category encompassing all aspects of information the a technology and the application of technology in various industries IT is a broad category </p>
 						<div class="blog__details-quote">
 							<div class="blog__details-quote-top">
 								<div class="blog__details-quote-avatar">
@@ -37,26 +37,26 @@
 								</div>
 							</div>
 							<div class="blog__details-quote-content">
-								<p>Real estate is a lucrative industry that involves the buying selling and renting properties It the encompasses residential commercial and industrial properties. Real estate agents play a  and crucial role in facilitating at transactions and helping commercial, and industrial</p>
+								<p>Real estate is a lucrative industry that involves the buying selling and renting properties It the encompasses residential commercial and industrial properties. Real estate agents play a and crucial role in facilitating at transactions and helping commercial, and industrial</p>
 							</div>
 						</div>
 						<h2>Showcase your talent with our portfolio</h2>
-						<p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra  Aliquam justo a posuere lobortis, viverra laoreet augue mattis fermentum ullamcorper </p>
+						<p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra Aliquam justo a posuere lobortis, viverra laoreet augue mattis fermentum ullamcorper </p>
 						<p>IT Technology is a broad category encompassing all aspects of information the a technology and the application of technology in various industries IT Technology is a broad category encompas aspects of information IT Technology is a broad category encompassing all aspects</p>
 						<div class="blog__details-portfolio">
 							<div class="blog__details-portfolio-left">
 								<img src="assets/img/blog/blog-details-portfolio.png" alt="image">
 							</div>
 							<ul class="blog__details-portfolio-middle">
-								<li> 
+								<li>
 									<i class="fas fa-check-circle"></i>
 									Data Analytics Consulting
 								</li>
-								<li> 
+								<li>
 									<i class="fas fa-check-circle"></i>
 									Mobile App Development Services
 								</li>
-								<li> 
+								<li>
 									<i class="fas fa-check-circle"></i>
 									IT Project Management Services
 								</li>

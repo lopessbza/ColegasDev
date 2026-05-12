@@ -6,9 +6,9 @@
 				<div class="col-xl-6">
 					<div class="contact__two-content">
 						<div class="contact__two-title">
-							<span class="subtitle-one">Contact us</span>
-							<h2>Do you have any question? </h2>
-							<p>For your car we will do everything  advice, repairs and maintenance. We are the some preferred choice by many car owners because</p>
+							<span class="subtitle-one">Contate-nos</span>
+							<h2>Você tem alguma duvida?</h2>
+							<p>Para o seu carro, oferecemos todos os serviços: aconselhamento, reparos e manutenção. Somos a escolha preferida de muitos proprietários de veículos porque...</p>
 						</div>
 						<div class="contact__two-form">
 							<form action="#">
@@ -31,7 +31,7 @@
 								</div>
 								<textarea placeholder="Your Message"></textarea>
 								<button type="submit" class="btn-two">
-									Submit Now
+									Enviar agora
 									<i class="fas fa-chevron-right"></i>
 								</button>
 							</form>
@@ -55,7 +55,7 @@
 								<img src="assets/img/icon//service-2.png" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
-								<h4>Contacts</h4>
+								<h4>Contatos</h4>
 								<span>(270) 555-0117</span>
 								<span>(704) 555-0127</span>
 							</div>
@@ -65,9 +65,9 @@
 								<img src="assets/img/icon//service-3.png" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
-								<h4>Date</h4>
-								<span>Saturday 10.Am To 2.Pm</span>
-								<span>Sunday 2.Pm To 7.Pm</span>
+								<h4>Data</h4>
+								<span>Sabado das 10:00 às 14:00</span>
+								<span>Domingo das 14:00 às 19:00</span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
@@ -75,7 +75,7 @@
 								<img src="assets/img/icon/service-4.png" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
-								<h4>Location</h4>
+								<h4>Localizaçâo</h4>
 								<span>8502 Preston Rd. Inglewood, Maine 98380</span>
 							</div>    
 						</div>

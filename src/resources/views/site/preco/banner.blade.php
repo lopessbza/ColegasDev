@@ -7,10 +7,10 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-xl-6 col-lg-7">
 					<div class="page__banner-content">
-						<h2>Pricing Plans</h2>
-						<span><a href="index.html">Home</a>
+						<h2>Plano de Preços</h2>
+						<span><a href="home.index">Home</a>
 							<span>|</span>
-							Pricing Plans
+							Plano de Preços
 						</span>
 					</div>
 				</div>
