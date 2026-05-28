@@ -15,8 +15,7 @@
 							</div>
 						</div>
 						<div class="about__one-image-wrapper">
-							<img src="assets/img/about/about-1.png" alt="" class="image-1">
-							<img src="assets/img/about/about-2.png" alt="" class="image-2">
+							<img src="{{ asset('colegasdev/images/img/free my mind, artpop_ you make my heart stop.jpg') }}" alt="" class="image-1">
 						</div>
 					</div>
 				</div>
