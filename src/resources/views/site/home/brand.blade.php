@@ -6,19 +6,19 @@
 					<div class="swiper brand__slider">
 						<div class="swiper-wrapper">
 							<div class="brand__area-item swiper-slide">
-								<img src="assets/img/brand/brand-1.png" alt="image">
+								<img src="{{ asset('colegasdev/images/ferramentas/html-5-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="brand__area-item swiper-slide">
-								<img src="assets/img/brand/brand-2.png" alt="image">
+								<img src="{{ asset('colegasdev/images/ferramentas/css3-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="brand__area-item swiper-slide">
-								<img src="assets/img/brand/brand-3.png" alt="image">
+								<img src="{{ asset('colegasdev/images/ferramentas/js-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="brand__area-item swiper-slide">
-								<img src="assets/img/brand/brand-4.png" alt="image">
+								<img src="{{ asset('colegasdev/images/ferramentas/php-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="brand__area-item swiper-slide">
-								<img src="assets/img/brand/brand-5.png" alt="image">
+								<img src="{{ asset('colegasdev/images/ferramentas/bootstrap-svgrepo-com.svg') }}" alt="image">
 							</div>
 						</div>
 					</div>

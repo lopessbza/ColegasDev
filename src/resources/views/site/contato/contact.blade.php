@@ -42,41 +42,40 @@
 					<div class="contact__two-contact-info">
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="assets/img/icon//service-1.png" alt="image">
+								<img src="{{ asset('colegasdev/images/icones/email-1572-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Email</h4>
-								<span>michelle.rivera@example.com</span>
-								<span>willie.jennings@example.com</span>
+								<span>murilolopesbarbosa@gmail.com</span>
+								<span>biaaaa@gmail.com</span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="assets/img/icon//service-2.png" alt="image">
+								<img src="{{ asset('colegasdev/images/icones/telephone-receiver-material-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Contatos</h4>
-								<span>(270) 555-0117</span>
-								<span>(704) 555-0127</span>
+								<span>(11) 4002-9822</span>
+								<span>(11) 4002-9822</span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="assets/img/icon//service-3.png" alt="image">
+								<img src="{{ asset('colegasdev/images/icones/time-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Data</h4>
-								<span>Sabado das 10:00 às 14:00</span>
-								<span>Domingo das 14:00 às 19:00</span>
+								<span>Segunda à Sexta <br> das 08:00 às 12:00</span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="assets/img/icon/service-4.png" alt="image">
+								<img src="{{ asset('colegasdev/images/icones/address-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Localizaçâo</h4>
-								<span>8502 Preston Rd. Inglewood, Maine 98380</span>
+								<span>Avenida Marechal Tito, 1500 <br> São Miguel Paulista, São Paulo - SP, 08115-100</span>
 							</div>    
 						</div>
 					</div>

@@ -10,7 +10,7 @@
 				</div>
 				<div class="col-xl-3 col-lg-4">
 					<div class="portfolio__one-content-right text-lg-end">
-						<a href="portfolio-column-three.html" class="btn-one">Todo Portfolio
+						<a href="portifolio" class="btn-one">Todo Portfolio
 							<i class="fas fa-arrow-right"></i>
 						</a>
 					</div>

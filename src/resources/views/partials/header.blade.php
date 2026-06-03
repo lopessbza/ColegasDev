@@ -11,9 +11,9 @@
 				<div class="header__area-menubar-center-menu menu-responsive">
 					<ul id="mobilemenu">
 						<li class="menu-item-has-children">
-							<a href="home">Home<i class="fas fa-angle-down"></i></a>
+							<a href="{{ url('/') }}">Home</a>
 						</li>
-						<li class="menu-item-has-children"><a href="sobre">Sobre<i class="fas fa-angle-down"></i></a></li>
+						<li class="menu-item-has-children"><a href="sobre">Sobre</a></li>
 
 						<li class="menu-item-has-children"><a href="servicos">Serviços<i class="fas fa-angle-down"></i></a>
 							<ul class="sub-menu">
@@ -22,9 +22,9 @@
 							</ul>
 						</li>
 
-						<li class="menu-item-has-children"><a href="portifolio">Portifolio <i class="fas fa-angle-down"></i></a></li>
+						<li class="menu-item-has-children"><a href="portifolio">Portifolio</a></li>
 
-						<li class="menu-item-has-children"><a href="contato">Contato<i class="fas fa-angle-down"></i></a></li>
+						<li class="menu-item-has-children"><a href="contato">Contato</a></li>
 				</div>
 			</div>
 			<div class="header__area-menubar-right">

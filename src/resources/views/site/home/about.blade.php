@@ -8,10 +8,10 @@
 							<i class="flaticon-consultant"></i>
 							<div class="experience-bar-right">
 								<div class="experience-bar-counter">
-									<h4 class="counter">25</h4>
+									<h4 class="counter">8</h4>
 									<span>+</span>
 								</div>
-								<span>Anos de experiência</span>
+								<span>Meses de Estudo</span>
 							</div>
 						</div>
 						<div class="about__one-image-wrapper">

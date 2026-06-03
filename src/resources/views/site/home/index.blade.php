@@ -10,9 +10,7 @@
     @include('site.home.pqnosescolher')
     @include('site.home.preco')
     @include('site.home.servicos')
-    @include('site.home.subscribe')
-    @include('site.home.testimonial')
     @include('site.home.top-bar')
-    @include('site.home.work')
+
 
 @endsection
