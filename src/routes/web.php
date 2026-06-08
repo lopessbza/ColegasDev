@@ -1,5 +1,6 @@
 <?php
  
+ use App\Http\Controllers\ContatoController;
  use Illuminate\Support\Facades\Route;
 
  Route::get('/blog', function () {
@@ -33,6 +34,8 @@ Route::get('/sobre', function () {
 Route::get('/testimonial', function () {
     return view('site.testimonial.index');
 });
+
+Route::post('/contato/enviar', [ContatoController::class, 'enviar'])->name('contato.enviar');
 
 
 
