@@ -4,8 +4,8 @@
 
     @include('site.servicos.banner')
     @include('site.servicos.services')
-    @include('site.servicos.subscribe')
-    @include('site.servicos.top-bar')
-
+    @include('site.servicos.pricing-plan')
+    @include('site.servicos.portifolio')
+    @include('site.sobre.testimonial')
 
 @endsection

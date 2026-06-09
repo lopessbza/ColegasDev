@@ -9,9 +9,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Creating a Foundation for thr main Success</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -22,9 +19,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Mobile App ServiceNetwor Infrastruct Solutions</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -35,9 +29,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Enhance your productivity with IT expertise</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -48,9 +39,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Igniting Curiosity and Imagination</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>    
 					</div>
 				</div>
@@ -61,9 +49,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Technology-driven success, guaranteed</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>    
 					</div>
 				</div>
@@ -74,9 +59,6 @@
 						</div>
 						<div class="services__two-single-service-content">
 							<h4>Mobile App ServiceNetwor Infrastruct Solutions</h4>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>    
 					</div>
 				</div>

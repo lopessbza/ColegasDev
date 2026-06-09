@@ -8,9 +8,6 @@
 						<div class="testimonial__one-left-title">
 							<span class="subtitle-one">Client Testimonial</span>
 							<h2>WebTech Solutions the <span class="highlighted">transfor</span> </h2>
-							<a href="#" class="btn-one">Read More
-								<i class="fas fa-arrow-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>

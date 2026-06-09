@@ -15,32 +15,15 @@
 						</li>
 						<li class="menu-item-has-children"><a href="sobre">Sobre</a></li>
 
-						<li class="menu-item-has-children"><a href="servicos">Serviços<i class="fas fa-angle-down"></i></a>
-							<ul class="sub-menu">
-								<li><a href="testimonial">Depoimentos</a></li>
-								<li><a href="preco">Preço</a></li>
-							</ul>
+						<li class="menu-item-has-children"><a href="servicos">Serviços</a>
 						</li>
 
-						<li class="menu-item-has-children"><a href="portifolio">Portifolio</a></li>
 
 						<li class="menu-item-has-children"><a href="contato">Contato</a></li>
 				</div>
 			</div>
 			<div class="header__area-menubar-right">
 				<div class="header__area-menubar-right-box">
-					<div class="header__area-menubar-right-box-search">
-						<div class="search">
-							<span class="header__area-menubar-right-box-search-icon open"><i class="flaticon-loupe"></i></span>
-						</div>
-						<div class="header__area-menubar-right-box-search-box">
-							<form>
-								<input type="search" placeholder="Search Here.....">
-								<button type="submit"><i class="flaticon-loupe"></i>
-								</button>
-							</form> <span class="header__area-menubar-right-box-search-box-icon"><i class="fal fa-times"></i></span>
-						</div>
-					</div>
 					<div class="header__area-menubar-right-box-sidebar">
 						<div class="header__area-menubar-right-box-sidebar-popup-icon">
 							<span class="bar-1"></span>

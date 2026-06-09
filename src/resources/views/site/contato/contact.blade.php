@@ -8,7 +8,7 @@
 						<div class="contact__two-title">
 							<span class="subtitle-one">Contate-nos</span>
 							<h2>Você tem alguma duvida?</h2>
-							<p>Para o seu carro, oferecemos todos os serviços: aconselhamento, reparos e manutenção. Somos a escolha preferida de muitos proprietários de veículos porque...</p>
+							<p>Para o seu negócio, oferecemos soluções tecnológicas de ponta: consultoria estratégica, desenvolvimento sob medida e suporte contínuo. Somos a escolha preferida de muitas empresas porque transformamos ideias em produtos digitais de alto impacto.</p>
 						</div>
 						<div class="contact__two-form">
 							@if(session('sucesso'))
@@ -20,20 +20,20 @@
 								@csrf
 								<div class="row gy-4 mb-4">
 									<div class="col-xl-6">
-										<input type="text" name="name" placeholder="Your Name" required>
+										<input type="text" name="name" placeholder="Nome" required>
 									</div>
 									<div class="col-xl-6">
-										<input type="email" name="email" placeholder="Your E-mail" required>
+										<input type="email" name="email" placeholder="E-mail" required>
 									</div>
 									<div class="col-xl-6">
-										<input type="tel" name="phone" placeholder="Phone Number">
+										<input type="tel" name="phone" placeholder="Numero de telefone">
 									</div>
 									<div class="col-xl-6">
-										<input type="text" name="subject" placeholder="Subject" required>
+										<input type="text" name="subject" placeholder="Assunto" required>
 									</div>
 								</div>
 								<div>
-									<textarea name="message" placeholder="Your Message" required></textarea>
+									<textarea name="message" placeholder="Mensagem" required></textarea>
 								</div>
 
 								<button type="submit" class="btn-two">
