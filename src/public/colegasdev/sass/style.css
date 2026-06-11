@@ -134,9 +134,9 @@ a:hover {
   color: inherit;
 }
 
-.section-padding {
+/* .section-padding {
   padding: 120px 0px;
-}
+} */
 
 @media (max-width: 991px) {
   .section-padding {

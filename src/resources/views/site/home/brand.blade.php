@@ -1,5 +1,5 @@
 <!-- Brand Area Start -->
-	<div class="brand__area pt-115">
+	<div class="brand_area" style="padding-top: 0px; padding-bottom: 60px;">
 		<div class="container">
 			<div class="row brand__area-border">
 				<div class="col-xl-12">

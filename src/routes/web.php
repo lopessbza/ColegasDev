@@ -1,8 +1,12 @@
 <?php
- 
- use App\Http\Controllers\ContatoController;
+
+ use App\Http\Controllers\Site\HomeController;
+ use App\Http\Controllers\Admin\AuthController;
  use Illuminate\Support\Facades\Route;
 
+
+//  admin
+ use App\Http\Controllers\Admin\DashController;
 
  Route::get('/contato', function () {
      return view('site.contato.index');
@@ -20,10 +24,5 @@ Route::get('/servicos', function () {
 Route::get('/sobre', function () {
     return view('site.sobre.index');
 });
-
-
-
-Route::post('/contato/enviar', [ContatoController::class, 'enviar'])->name('contato.enviar');
-
 
 
