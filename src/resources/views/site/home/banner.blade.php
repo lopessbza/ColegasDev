@@ -5,7 +5,6 @@
 			<div class="shape banner-shape-2"></div>
 			<div class="shape banner-shape-3"></div>
 			<div class="shape banner-shape-4"></div>
-			<img class="shape banner-shape-5" src="{{ asset('colegasdev/images/portfolio/imagem (1).png') }}" alt="image">
 			<div class="shape banner-shape-7"></div>
 			<div class="shape banner-shape-6"></div>
 		</div>
@@ -28,7 +27,7 @@
 								<div class="shape shape-1"></div>
 								<div class="shape shape-2"></div>
 							</div>
-							<img src="{{ asset('colegasdev/images/portfolio/imagem (2).png') }}" alt="image">
+							<img src="{{ asset('colegasdev/images/banner/undraw_online-community_3o0l.svg') }}" alt="image">
 						</div>
 					</div>
 				</div>

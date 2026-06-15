@@ -15,7 +15,7 @@
 							</div>
 						</div>
 						<div class="about__one-image-wrapper">
-							<img src="{{ asset('colegasdev/images/about/SMM icons.jpg') }}" alt="" class="image-1">
+							<img src="{{ asset('colegasdev/images/about/undraw_pair-programming_9jyg.svg') }}" alt="" class="image-1">
 						</div>
 					</div>
 				</div>
@@ -23,7 +23,7 @@
 					<div class="about__one-content">
 						<span class="subtitle-one">Sobre Nós</span>
 						<h2>Transformamos negócios em tecnologia</h2>
-						<p>Tecnologia da Informação (TI) é uma categoria ampla que engloba todos os aspectos da tecnologia da informação e a aplicação da tecnologia em diversos setores. Inclui áreas como desenvolvimento de software.</p>
+						<p>A ColegasDev é uma agência de tecnologia focada em transformar ideias em soluções digitais de alto impacto. Especializada no desenvolvimento de sites, sistemas web e aplicações modernas, a agência combina inovação, excelência técnica e design estratégico para impulsionar o crescimento de empresas no ambiente digital.</p>
 						<div class="about__one-content-service">
 							<div class="service">
 								<i class="far fa-check-circle"></i>

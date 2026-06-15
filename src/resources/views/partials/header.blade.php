@@ -32,7 +32,7 @@
 						</div>
 					</div>
 					<div class="header__area-menubar-right-box-btn">
-						<a class="btn-one" href="request-quote.html">Obter cotação<i class="fas fa-arrow-right"></i></a>
+						<a class="btn-one" href="request-quote.html">Fazer Login<i class="fas fa-arrow-right"></i></a>
 					</div>
 					<!-- sidebar Menu Start -->
 					<div class="header__area-menubar-right-sidebar-popup">

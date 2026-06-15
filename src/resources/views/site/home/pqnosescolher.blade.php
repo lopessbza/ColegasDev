@@ -36,9 +36,9 @@
 						<div class="why-choose-us__one-image-shape">
 							<div class="shape shape-1 animate-x-axis"></div>
 							<div class="shape shape-2 animate-x-axis"></div>
-							<img src="assets/img/shape/why-choose-shape.png" alt="" class="shape shape-3 animate-y-axis">
+							<img src="{{ asset('colegasdev/images/pqescolher/undraw_environmental-study_c69w.svg') }}" alt="image" class="shape shape-3 animate-y-axis">
 						</div>
-						<img src="assets/img/why-choose-us/why-choose.png" alt="image">
+						<img src="{{ asset('colegasdev/images/pqescolher/undraw_investor-update_ou4c.svg') }}" alt="image">
 					</div>
 				</div>
 			</div>

@@ -13,6 +13,18 @@
 				</div>
 			</div>
 
+			<div class="col-xl-3 col-md-6 col-sm-5 sm-mb-30">
+				<div class="footer__one-widget border-one">
+					<div class="footer__one-widget-solution">
+						<ul>
+							<li><a href="{{ url('/') }}"><i class="far fa-chevron-double-right"></i>Home</a></li>
+							<li><a href="sobre"><i class="far fa-chevron-double-right"></i>Sobre</a></li>
+							<li><a href="servicos"><i class="far fa-chevron-double-right"></i>Serviços</a></li>
+							<li><a href="contato"><i class="far fa-chevron-double-right"></i>Contato</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
 
 			<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
 				<div class="footer__two-widget">

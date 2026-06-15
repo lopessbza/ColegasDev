@@ -1,5 +1,5 @@
 <!-- Blog Area Start -->
-<div class="blog_one section-padding pt-lg-0 mt-40">
+<div class="blog_one section-paddding pt-lg-0 mt-40">
 		<div class="container">
 			<div class="row justify-content-center text-center">
 				<div class="col-xl-6 col-lg-6">

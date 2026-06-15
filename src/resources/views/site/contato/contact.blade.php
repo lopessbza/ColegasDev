@@ -7,7 +7,7 @@
 					<div class="contact__two-content">
 						<div class="contact__two-title">
 							<span class="subtitle-one">Contate-nos</span>
-							<h2>Você tem alguma duvida?</h2>
+							<h2>Tire suas duvidas!</h2>
 							<p>Para o seu negócio, oferecemos soluções tecnológicas de ponta: consultoria estratégica, desenvolvimento sob medida e suporte contínuo. Somos a escolha preferida de muitas empresas porque transformamos ideias em produtos digitais de alto impacto.</p>
 						</div>
 						<div class="contact__two-form">
@@ -16,7 +16,7 @@
 								{{ session('sucesso') }}
 							</div>
 							@endif
-							<form action="{{ route('contato.enviar') }}" method="POST">
+							<form action="" method="POST">
 								@csrf
 								<div class="row gy-4 mb-4">
 									<div class="col-xl-6">
