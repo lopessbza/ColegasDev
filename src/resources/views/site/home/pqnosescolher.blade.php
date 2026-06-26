@@ -1,5 +1,5 @@
 	<!-- Why Choose us Area Start -->
-	<div class="why-choose-us__one section-padding">
+	<div class="why-choose-us__one section-paddingg">
 		<div class="container">
 			<div class="row gy-4 align-items-center">
 				<div class="col-xl-6 col-lg-7 col-md-9">
@@ -7,7 +7,7 @@
 						<div class="why-choose-us__one-title">
 							<span class="subtitle-one">Por que nos esolher</span>
 							<h2>Estratégias de TI personalizadas para o seu negócio</h2>
-							<p>Elabore planos de ação personalizados, aproveitando as mais recentes inovações em TI para apoiar seus objetivos de negócios e impulsionar o crescimento.</p>
+							<p>Elaboramos planos de ação personalizados, aproveitando as mais recentes inovações em TI para apoiar seus objetivos de negócios e impulsionar o crescimento.</p>
 						</div>
 						<div class="why-choose-us__one-quality">
 							<div class="why-choose-us__one-quality-single">

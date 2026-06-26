@@ -16,7 +16,7 @@
 								{{ session('sucesso') }}
 							</div>
 							@endif
-							<form action="" method="POST">
+							<form action="{{ route('contato.enviar') }}" method="POST">
 								@csrf
 								<div class="row gy-4 mb-4">
 									<div class="col-xl-6">
@@ -47,7 +47,7 @@
 					<div class="contact__two-contact-info">
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="{{ asset('colegasdev/images/icones/email-1572-svgrepo-com.svg') }}" alt="image">
+								<img src="{{ asset('colegasdev/images/contact/email-1572-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<a href="mailto:colegasdev@gmail.com" style="text-decoration: none; color: inherit; display: block; width: 100%; height: 100%;">
@@ -58,7 +58,7 @@
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="{{ asset('colegasdev/images/icones/telephone-receiver-material-svgrepo-com.svg') }}" alt="image">
+								<img src="{{ asset('colegasdev/images/contact/telephone-receiver-material-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<a href="tel:1140029822" style="text-decoration: none; color: inherit; display: block; width: 100%; height: 100%;">
@@ -69,7 +69,7 @@
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="{{ asset('colegasdev/images/icones/time-svgrepo-com.svg') }}" alt="image">
+								<img src="{{ asset('colegasdev/images/contact/time-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Data</h4>
@@ -78,7 +78,7 @@
 						</div>
 						<div class="contact__two-single-info">
 							<div class="contact__two-single-info-icon">
-								<img src="{{ asset('colegasdev/images/icones/address-svgrepo-com.svg') }}" alt="image">
+								<img src="{{ asset('colegasdev/images/contact/map-pin-svgrepo-com.svg') }}" alt="image">
 							</div>
 							<div class="contact__two-single-info-content">
 								<a href="https://maps.app.goo.gl/HytkZiALiDp1EqUBA" target="_blank" style="text-decoration: none; color: inherit; display: block; width: 100%; height: 100%;">

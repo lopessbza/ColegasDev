@@ -3,7 +3,7 @@
 	<div class="container">
 			<div class="col-xl-6 col-lg-7">
 				<div class="page__banner-content">
-					<h2>Sobre Nós</h2>
+					<h2>Sobre</h2>
 				</div>
 			</div>
 	</div>
