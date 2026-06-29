@@ -1,66 +1,45 @@
-<!-- Services Area Start -->
-	<div class="services__one section-paddingg">
+	<!-- About Area Start -->
+	<div class="about__one section-padding">
 		<div class="container">
-			<div class="row justify-content-center text-center">
-				<div class="col-xl-7 col-lg-7 col-md-9 services__one-title" style="padding-top: 30px;">
-					<span class="subtitle-one">Recursos principais</span>
-					<h2>Soluções inovadoras de TI</h2>
-				</div>
-			</div>
-			<div class="row align-items-center justify-content-center">
-				<div class="col-xl-3">
-					<div class="row">
-						<div class="col-xl-12 col-md-6">
-							<div class="single-service">
-								<div class="services__one-single-service-icon">
-									<i class="flaticon-global-network"></i>
+			<div class="row align-items-center flex-wrap-reverse gy-4">
+				<div class="col-xl-6 col-lg-5">
+					<div class="about__one-image">
+						<div class="experience-bar animate-y-axis-slider">
+							<i class="flaticon-consultant"></i>
+							<div class="experience-bar-right">
+								<div class="experience-bar-counter">
+									<h4 class="counter">8</h4>
+									<span>+</span>
 								</div>
-								<div class="services__one-single-service-content">
-									<h4>Gestão de soluções em nuvem</h4>
-									<p>Infraestrutura de TI, incluindo instalação de rede.</p>
-								</div>
+								<span>Meses de Estudo</span>
 							</div>
 						</div>
-						<div class="col-xl-12 col-md-6 xl-mb-30">
-							<div class="single-service">
-								<div class="services__one-single-service-icon">
-									<i class="flaticon-mobile-phone-1"></i>
-								</div>
-								<div class="services__one-single-service-content">
-									<h4>Análise de Inteligência de Negócios</h4>
-									<p>Serviços abrangentes de análise de dados, fornecendo</p>
-								</div>
-							</div>
+						<div class="about__one-image-wrapper">
+							<img src="{{ asset('colegasdev/images/about/undraw_pair-programming_9jyg.svg') }}" alt="" class="image-1">
 						</div>
 					</div>
 				</div>
-				<div class="col-xl-6 col-lg-7">
-					<div class="services-image-wrapper">
-						<img src="{{ asset('colegasdev/images/pqescolher/undraw_environmental-study_c69w.svg') }}" alt="image">
-					</div>
-				</div>
-				<div class="col-xl-3">
-					<div class="row">
-						<div class="col-xl-12 col-md-6">
-							<div class="single-service">
-								<div class="services__one-single-service-icon">
-									<i class="flaticon-idea"></i>
-								</div>
-								<div class="services__one-single-service-content">
-									<h4>Desenvolvimento de software personalizado</h4>
-									<p>Nossos serviços criam soluções confiáveis, escaláveis ​​e inovadoras.</p>
-								</div>
+				<div class="col-xl-6 col-lg-7 col-md-9">
+					<div class="about__one-content">
+						<span class="subtitle-one">Sobre Nós</span>
+						<h2>Transformamos negócios em tecnologia</h2>
+						<p>A ColegasDev é uma agência de tecnologia focada em transformar ideias em soluções digitais de alto impacto. Especializada no desenvolvimento de sites, sistemas web e aplicações modernas, a agência combina inovação, excelência técnica e design estratégico para impulsionar o crescimento de empresas no ambiente digital.</p>
+						<div class="about__one-content-service">
+							<div class="service">
+								<i class="far fa-check-circle"></i>
+								<span>Especialistas em gerenciamento de dados</span>
 							</div>
-						</div>
-						<div class="col-xl-12 col-md-6">
-							<div class="single-service">
-								<div class="services__one-single-service-icon">
-									<i class="flaticon-it"></i>
-								</div>
-								<div class="services__one-single-service-content">
-									<h4>Implementação de aprendizado de máquina</h4>
-									<p>Aproveitando o poder da inteligência artificial</p>
-								</div>
+							<div class="service">
+								<i class="far fa-check-circle"></i>
+								<span>Desenvolvimentos de aplicativos mobile</span>
+							</div>
+							<div class="service">
+								<i class="far fa-check-circle"></i>
+								<span>Soluções de infraestrutura de TI</span>
+							</div>
+							<div class="service">
+								<i class="far fa-check-circle"></i>
+								<span>Consultoria em análise de dados</span>
 							</div>
 						</div>
 					</div>
@@ -68,4 +47,4 @@
 			</div>
 		</div>
 	</div>
-	<!-- Services Area End -->
+	<!-- About Area End -->

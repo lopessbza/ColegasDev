@@ -6,7 +6,7 @@
     @include('site.home.blog')
     @include('site.home.brand')
     @include('site.home.pqnosescolher')
-    @include('site.home.servicos')
+    @include('site.home.about')
 
 
 @endsection
