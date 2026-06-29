@@ -4,7 +4,12 @@
 		<div class="header__area-menubar">
 			<div class="header__area-menubar-left">
 				<div class="header__area-menubar-left-logo">
-					<a href="index.html"><img class="dark-n" src="{{ asset('colegasdev/images/icon2/android-icon-96x96.png') }}" alt="image"></a>
+					<a href="index.html"><a href="{{ url('/') }}">
+							<img
+								src="{{ asset('colegasdev/images/icon2/isologo colegadev 1.svg') }}"
+								alt="Logo"
+								width="80">
+						</a></a>
 				</div>
 			</div>
 			<div class="header__area-menubar-center">
@@ -24,7 +29,7 @@
 			</div>
 			<div class="header__area-menubar-right">
 				<div class="header__area-menubar-right-box">
-				
+
 					<div class="header__area-menubar-right-box-btn">
 						<a class="btn-one" href="request-quote.html">Fazer Login<i class="fas fa-arrow-right"></i></a>
 					</div>

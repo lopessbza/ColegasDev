@@ -8,9 +8,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
 	<title>Colegas Dev</title>
-	<link rel="icon" type="image/png" href="{{ asset('colegasdev/images/icon2/logo.png') }}">
+	<link rel="icon" type="image/png" href="{{ asset('colegasdev/images/icon2/isologo colegadev 1.svg') }}">
 	<!-- Favicons -->
-	<link rel="icon" type="image/png" href="{{ asset('colegasdev/img/favicon-1.png') }}">
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="{{ asset('colegasdev/css/bootstrap.min.css') }}">
 	<!-- Font Awesome CSS -->
